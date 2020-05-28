@@ -6,7 +6,7 @@ Refer to individual folders for my implementations of the following papers. Cred
 
 Perform SVD on Co-Occurence Embedding matrix
 
-<img src="./A1-Word-Occurence/co_occurence_embeddings.png" width="400">
+<img src="./A1-Word-Occurence/co_occurence_embeddings.png" width="500">
 
 ## A2: Word2Vec
 
@@ -24,13 +24,13 @@ Chen and Manning, 2014, https://nlp.stanford.edu/pubs/emnlp2014-depparser.pdf
 
 Seq2Seq Model with Multiplicative Attention
 
-<img src="https://i.imgur.com/IUXvy2i.png" width="300">
+<img src="https://i.imgur.com/IUXvy2i.png" width="400">
 
 ## A5: Machine Translation with Convolutional Neural Network Character Encoding enhancements
 
 Character-Aware Neural Language Models, Kim et al., 2016. https://arxiv.org/abs/1508.06615
 
-<img src="https://i.imgur.com/nhwUmDY.png" width="550">
+<img src="https://i.imgur.com/nhwUmDY.png" width="600">
 
 Achieving Open Vocabulary Neural Machine Translation with Hybrid Word-Character Models, Luong and Manning, 2016. https://arxiv.org/abs/1604.00788
 
